@@ -1,6 +1,6 @@
 public class TipeDataArray {
     public static void main(String[] args) {
-        //Array adalah kumpulan dari sebuah dengan tipe data yang saama
+        //Array adalah kumpulan dari sebuah dengan tipe data yang sama
         //Array one dimension
         int[] kumpulanAngka = new int[3];
         kumpulanAngka[0] = 10;

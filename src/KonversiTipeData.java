@@ -1,4 +1,4 @@
-public class KonversiTipeDataa {
+public class KonversiTipeData {
     public static void main(String[] args) {
         //widening
         byte TipeDataByte = 10;

@@ -1,7 +1,7 @@
 public class TipeDataString {
     public static void main(String[] args) {
         //Non primitive
-        String firstName = "Raano";
+        String firstName = "Rano";
         String lastName = "Hasibuan";
 
         //Concatenation

@@ -1,6 +1,6 @@
 public class MembuatVariabel {
     public static void main(String[] args) {
-        //tipe data bagaiikan sebuah label
+        //tipe data bagaikan sebuah label
 
         // deklarasi
         int tipeDataInteger;
