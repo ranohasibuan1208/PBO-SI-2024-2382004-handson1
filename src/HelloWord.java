@@ -1,5 +1,5 @@
 public class HelloWord {
-    //shortcutt
+    //shortcut
     //psvm
     //sout
     public static void main(String[] args) {

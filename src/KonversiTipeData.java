@@ -6,7 +6,7 @@ public class KonversiTipeData {
         int TipeDataInt = TipeDataShort;
         long TipeDataLong = TipeDataInt;
         float TipeDataFloat = TipeDataLong;
-        double TipeDataDoouble = TipeDataFloat;
+        double TipeDataDouble = TipeDataFloat;
 
         //narrowing
         int TipeDataInteger = 127;
