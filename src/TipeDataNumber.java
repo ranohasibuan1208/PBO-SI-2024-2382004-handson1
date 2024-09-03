@@ -6,6 +6,7 @@ public class TipeDataNumber {
         long tipeDataLong = 10l;
 
         //bilangan pecahan
+        //bilangan pecahan
         float tipeDataFloat= 10.3F;
         double tipeDataDouble = 10.4d;
 

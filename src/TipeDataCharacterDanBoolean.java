@@ -6,6 +6,7 @@ public class TipeDataCharacterDanBoolean {
         boolean salah = false;
 
         //tipe data character
+        //tipe data character
         char hurufW = 'w';
     }
 }
