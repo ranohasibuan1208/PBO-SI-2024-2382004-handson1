@@ -1,5 +1,5 @@
 
-public class TipeDataCharacterDanBoolean {
+public class TipeDataCharacterDanBooleean {
     public static void main(String[] args) {
         //tipe data boolean
         boolean benar = true;

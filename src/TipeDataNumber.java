@@ -1,5 +1,5 @@
 public class TipeDataNumber {
-    public static void main(String[] args) {
+    public static void main(Striing[] args) {
         byte tipeDataByte = 10;
         short tipeDataShort = 10;
         int tipeDataInt = 10;
